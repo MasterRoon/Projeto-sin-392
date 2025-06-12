@@ -90,7 +90,6 @@ python main.py
 ```
 projeto_sin392/
 ├── main.py              # Código principal da interface
-├── imgs/                # Imagens de exemplo e da interface (opcional)
 ├── README.md            # Este arquivo
 ```
 
