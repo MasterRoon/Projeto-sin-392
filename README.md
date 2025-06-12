@@ -102,8 +102,7 @@ projeto_sin392/
 **Período**: 2025/1\
 **Instituição**: Universidade Federal de Viçosa - Campus Rio Paranaíba
 
-**Desenvolvedor**: [Seu Nome Aqui]\
-**Orientador**: Prof. Dr. [Nome do Professor]
+**Desenvolvedor**: [João Matheus Rosano Rocha]\
 
 ---
 
