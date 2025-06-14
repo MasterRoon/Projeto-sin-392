@@ -36,6 +36,9 @@ O sistema permite realizar diversas operações de processamento de imagens de f
 ### 📡 Domínio da Frequência
 
 - Exibir Espectro de Fourier
+- Convolução no Domínio da Frequênci
+ -Filtro Passa-Baixa (corte central no espectro)
+ -Filtro Passa-Alta (remoção do centro no espectro)
 
 ### ⚙️ Morfologia Matemática
 
