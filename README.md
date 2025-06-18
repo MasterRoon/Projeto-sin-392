@@ -93,7 +93,6 @@ python main.py
 ```
 projeto_sin392/
 ├── main.py              # Código principal da interface
-├── imgs/                # Imagens de exemplo e da interface (opcional)
 ├── README.md            # Este arquivo
 ```
 
@@ -105,8 +104,7 @@ projeto_sin392/
 **Período**: 2025/1\
 **Instituição**: Universidade Federal de Viçosa - Campus Rio Paranaíba
 
-**Desenvolvedor**: [Seu Nome Aqui]\
-**Orientador**: Prof. Dr. [Nome do Professor]
+**Desenvolvedor**: [João Matheus Rosano Rocha]
 
 ---
 
