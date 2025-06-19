@@ -111,7 +111,7 @@ projeto_sin392/
 ## 📽️ Demonstração em Vídeo
 
 O vídeo demonstrativo do funcionamento do sistema está disponível no YouTube:\
-📺 [Link para o vídeo demonstrativo]([https://youtu.be/vKDRuScvzvY])&#x20;
+📺 [https://youtu.be/vKDRuScvzvY]([https://youtu.be/vKDRuScvzvY])&#x20;
 
 ---
 
